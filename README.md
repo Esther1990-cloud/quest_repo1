@@ -1,4 +1,5 @@
 
+
 # AIFFEL Data Scientist Campus Code Peer Review Templete
 
 코더 : 김찬영
@@ -41,3 +42,4 @@
 1. 이자 부분 함수를 만들었으면 좋았을 것 같습니다.
 2. withdraw 부분에서, wd 용어를 amount로 통일했었으면 더 좋았을 것 같습니다!(wd라고 한 이유가 있으면 상관이 없을 것 같았어요)
 3. withdraw 부분에서 input은 이미 self, wd로 받고 밖에서 입력을 할 수 있기 때문에 print()로 바꾸면 더 좋았을 것 같습니다.
+
